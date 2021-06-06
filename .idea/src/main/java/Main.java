@@ -7,4 +7,7 @@ public class Main {
       
         System.out.println("Andi ist gaaanz besonders");
     }
+    private void count(int counter) {
+        System.out.println(counter);
+    }
 }
